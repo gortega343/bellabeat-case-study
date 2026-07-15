@@ -19,4 +19,4 @@ Google Data Analytics Certificate.
 [Ver dashboard en Tableau Public](https://public.tableau.com/app/profile/giraldo.ortega.ruiz/viz/NEw_17836498574010/Usuariosdewearablessedentariosconpotencialdemejora)
 
 ## Documentación
-[Ver documentación completa del análisis (PDF)](./bellabeat_process_documentation(2).pdf)
+[Ver documentación completa del análisis (PDF)](https://github.com/gortega343/bellabeat-case-study/blob/main/bellabeat_process_documentation%20(2).pdf)
